@@ -1,7 +1,6 @@
 # PubHealthResearch
 
 Population/Public Health Research Report and Presentation
-detail the research question, methodology, findings, and your personal contributions.
 
 Our research question was, "How can public health STI programs effectively utilize outbreak preparedness, detection, and response tools to mitigate the spread of sexually transmitted infections?"
 
